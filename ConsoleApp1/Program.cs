@@ -4,9 +4,9 @@ namespace ConsoleApp1
 {
     class Program
     {
-        public class Check2
+        public class Check1
         {
-            public string b { get; set; }
+            public int a { get; set; }
         }
         static void Main(string[] args)
         {
